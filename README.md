@@ -4,5 +4,9 @@ Hi there 👋
 
 
  📫 How to reach me: 
-Twitter  :   @Voider_bot
-Linkedin :  voiderbot
+ 
+Twitter  :  https://twitter.com/Voider_bot
+
+Linkedin :  https://www.linkedin.com/in/voiderbot
+
+gmail    : ranjithunnikrishnan111@gmail.com
